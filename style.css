@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 768px;
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    box-shadow: 0 0 3px #000000;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.item {
+    margin-bottom: 25px;
+}
